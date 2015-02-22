@@ -88,7 +88,7 @@ Build for the community
 
 ---
 
-### Demo
+## Demo
 
 @todo, Record a demo.
 
@@ -104,13 +104,13 @@ Build for the community
 
 ---
 
-### Demo
+## Demo
 
 @todo, Record a demo.
 
 ---
 
-### PrivateTravis
+## PrivateTravis
 
 * Compatibilty layer
 * Symfony console
@@ -119,7 +119,7 @@ Build for the community
 
 ---
 
-#### Demo
+## Demo
 
 @todo, Record a demo.
 
@@ -135,19 +135,19 @@ Build for the community
 
 ---
 
-### Screenshot - Latest
+## Screenshot - Latest
 
 ![Latest](./assets/latest.png "Latest")
 
 ---
 
-### Screenshot - Build
+## Screenshot - Build
 
 ![Build](./assets/build.png "Build")
 
 ---
 
-### Demo
+## Demo
 
 @todo, Record a demo.
 
@@ -161,7 +161,7 @@ Build for the community
 
 ---
 
-### Demo
+## Demo
 
 @todo, Record a demo.
 

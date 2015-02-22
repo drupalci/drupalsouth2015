@@ -1,0 +1,11 @@
+.remark-container {
+  background-color: #56B3E6; }
+
+.remark-slide-content {
+  font-size: 32px; }
+  .remark-slide-content h1, .remark-slide-content h2, .remark-slide-content h3 {
+    margin: 10px;
+    text-align: center;
+    font-size: 100px; }
+  .remark-slide-content img {
+    width: 100%; }
