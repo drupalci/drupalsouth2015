@@ -2,6 +2,8 @@
 
 ![DrupalCI](./assets/logo.png "DrupalCI")
 
+---
+
 ## Overview
 
 * What
@@ -11,15 +13,21 @@
 * Components
 * Help
 
+---
+
 ## Me
 
 * Nick Schuch
 * PreviousNext
 * Dev / Sys
 
+---
+
 ## Continuous integration
 
 Continuous Integration (CI) is a development practice that requires developers to integrate code into a shared repository several times a day. Each check-in is then verified by an automated build, allowing teams to detect problems early.
+
+---
 
 ## Current
 
@@ -28,6 +36,8 @@ Continuous Integration (CI) is a development practice that requires developers t
 * Puppet manifest for "nodes" done manually
 * Only test one version of LAMP
 * No tests
+
+---
 
 ## Goals
 
@@ -39,19 +49,31 @@ Continuous Integration (CI) is a development practice that requires developers t
 * Test our own code
 * Ship as images for Vagrant / AWS / Docker
 
+---
+
 ## Goals
 
 Build for the community
+
+---
 
 ## Meet the team
 
 @todo, Get a set of images
 
+---
+
 ## Diagram
 
 ![Diagram](./assets/diagram.png "Diagram")
 
+---
+
 ## Components
+
+@todo, Image.
+
+---
 
 ## Dispatcher
 
@@ -64,9 +86,13 @@ Build for the community
  * AWS AMI - Yes
  * Docker - No
 
+---
+
 ### Demo
 
 @todo, Record a demo.
+
+---
 
 ## Job Runner
 
@@ -76,9 +102,13 @@ Build for the community
 * Runs the test script
 * Packaged as a PHAR
 
+---
+
 ### Demo
 
 @todo, Record a demo.
+
+---
 
 ### PrivateTravis
 
@@ -87,9 +117,13 @@ Build for the community
 * Brings back projects running on Github
 * Enables existing projects to have all the benefits of Travis
 
+---
+
 #### Demo
 
 @todo, Record a demo.
+
+---
 
 ## Results
 
@@ -99,17 +133,25 @@ Build for the community
 * All records / artefacts driven by CLI
 * CLI generates the famous *1 Passed, 1000000 failed* message
 
+---
+
 ### Screenshot - Latest
 
 ![Latest](./assets/latest.png "Latest")
+
+---
 
 ### Screenshot - Build
 
 ![Build](./assets/build.png "Build")
 
+---
+
 ### Demo
 
 @todo, Record a demo.
+
+---
 
 ## API
 
@@ -117,26 +159,38 @@ Build for the community
 * Abstraction layer
 * Drupal.org / CLI integration point
 
+---
+
 ### Demo
 
 @todo, Record a demo.
+
+---
 
 ## Drupal.org
 
 Work will begin shortly.
 
+---
+
 ## Metrics
 
 Leverage existing Drupal.org logging.
+
+---
 
 ## Project ideas
 
 * A gist.github.com like service
 * Drush command
 
+---
+
 ## Call to arms
 
 @todo, Cool image
+
+---
 
 ## Contact
 
@@ -149,4 +203,10 @@ Leverage existing Drupal.org logging.
  * Nick Schuch - nick_schuch
  * Ricardo Amaro - ricardoamaro
 
+---
+
 ## Questions
+
+@todo, Image.
+
+---
