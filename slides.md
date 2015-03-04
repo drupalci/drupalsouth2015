@@ -4,22 +4,29 @@
 
 ---
 
+# The future of Drupal.org CI
+
+![DrupalCI](./assets/logo.png "DrupalCI")
+
+---
+
 ## Overview
 
-* What
-* Why
-* Current
-* Goals
+* What is CI?
+* The origin story of Drupal and CI
+* The state of Drupal and CI
+* DrupalCI
 * Components
-* Help
+* Questions and DEMANDS!!!!
 
 ---
 
 ## Me
 
-* Nick Schuch
+* Nick Schuch (nick_schuch)
 * PreviousNext
 * Dev / Sys
+* PHP, Puppet, Docker, Golang (All the techs!)
 
 ---
 
@@ -29,13 +36,19 @@ Continuous Integration (CI) is a development practice that requires developers t
 
 ---
 
+## The origin story
+
+http://privatepaste.com/ea66340d21
+
+---
+
 ## Current
 
 * Patch workflow
-* Drupal site to manage builds (PIFR)
-* Puppet manifest for "nodes" done manually
-* Only test one version of LAMP
-* No tests
+* Drupal site to manage builds (https://qa.drupal.org/pifr/status)
+* Puppet manifest for "nodes" built by people
+* Only test one version
+* No tests for the infrastructure
 
 ---
 
@@ -51,15 +64,15 @@ Continuous Integration (CI) is a development practice that requires developers t
 
 ---
 
-## Goals
+## The main goal
 
-Build for the community
+* Build for the community
 
 ---
 
-## Meet the team
+## Components
 
-@todo, Get a set of images
+![Components](./assets/components.jpg "Components")
 
 ---
 
@@ -69,9 +82,11 @@ Build for the community
 
 ---
 
-## Components
+## API
 
-@todo, Image.
+* Silex (Symfony micro framework)
+* Abstraction layer
+* Drupal.org / CLI integration point
 
 ---
 
@@ -88,12 +103,6 @@ Build for the community
 
 ---
 
-## Demo
-
-@todo, Record a demo.
-
----
-
 ## Job Runner
 
 * The DrupalCI workflow
@@ -106,7 +115,7 @@ Build for the community
 
 ## Demo
 
-@todo, Record a demo.
+![DrupalCI](./assets/logo.png "DrupalCI")
 
 ---
 
@@ -116,12 +125,6 @@ Build for the community
 * Symfony console
 * Brings back projects running on Github
 * Enables existing projects to have all the benefits of Travis
-
----
-
-## Demo
-
-@todo, Record a demo.
 
 ---
 
@@ -149,33 +152,7 @@ Build for the community
 
 ## Demo
 
-@todo, Record a demo.
-
----
-
-## API
-
-* Silex (Symfony micro framework)
-* Abstraction layer
-* Drupal.org / CLI integration point
-
----
-
-## Demo
-
-@todo, Record a demo.
-
----
-
-## Drupal.org
-
-Work will begin shortly.
-
----
-
-## Metrics
-
-Leverage existing Drupal.org logging.
+![DrupalCI](./assets/logo.png "DrupalCI")
 
 ---
 
@@ -188,7 +165,7 @@ Leverage existing Drupal.org logging.
 
 ## Call to arms
 
-@todo, Cool image
+![DrupalCI](./assets/logo.png "DrupalCI")
 
 ---
 
@@ -196,7 +173,7 @@ Leverage existing Drupal.org logging.
 
 * **Weekly Hangout**: 
  * Google hangout - http://bit.ly/1sBysAN
- * Timezone - http://www.timeanddate.com/worldclock/fixedtime.html?msg=Modernizing+Testbot+Hangout&iso=20141012T14&p1=210&ah=1
+ * Timezone - https://bitly.com/shorten/
 
 * **IRC**: #drupal-testing.
  * Jeremy Thorson - jthorson
@@ -205,8 +182,6 @@ Leverage existing Drupal.org logging.
 
 ---
 
-## Questions
+## Questions and DEMANDS!!!
 
-@todo, Image.
-
----
+![DrupalCI](./assets/logo.png "DrupalCI")
